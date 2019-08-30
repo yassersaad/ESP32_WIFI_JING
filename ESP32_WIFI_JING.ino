@@ -18,7 +18,7 @@ int ldrValue = analogRead(32); //for Light Sensor
 const char* ssid     = "yy";
 const char* password = "yyy";
 
-const String APIKEY="2ad5a6a7efd868b5886d36f9f94b384b";          
+const String APIKEY="XXXXX";          
 const char URL[] ="emoncms.org";
 
 WiFiServer server(80);
